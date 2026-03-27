@@ -88,7 +88,7 @@ We Got Hacked began production in January 2025, with completion planned for Dece
 
 Meet the Team 
 -------
-![Equipe-Desenvolvimento](https://github.com/AtomicRocketEntertainment/We-Got-Hacked/blob/main/Imagens/Membros%20Atomic%20Rocket%20(English)%20v2.png)
+![Equipe-Desenvolvimento](https://github.com/AtomicRocketEntertainment/We-Got-Hacked/blob/main/Imagens/Membros%20Atomic%20Rocket%20(English)%20v4.png)
 | Name | Role | Participation Period |
 |----|----|----|
 | [Bernardo Klein](https://www.linkedin.com/in/bernardo-klein-a393262b7/) | 2D Artist | 01/2025 - 12/2025 | 
