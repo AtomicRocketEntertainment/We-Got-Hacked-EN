@@ -95,7 +95,7 @@ Meet the Team
 | [Frank V. Vega](https://www.linkedin.com/in/frank-vega-24a721282/) | 2D and 3D Artist | 02/2026 - Present |
 | [Igor Flores](https://www.linkedin.com/in/igorflores96/) | Developer  | 01/2025 - 02/2026 |
 | [Jairo A. de C. Augusto](https://www.artstation.com/jairoaugusto13) | Writer  | 01/2025 - Present |
-| [Luciano B. Ignaczak](https://www.linkedin.com/in/luciano-ignaczak/) | Academic Coordinator | 01/2025 - Present |
+| [Luciano Ignaczak](https://www.linkedin.com/in/luciano-ignaczak/) | Academic Coordinator | 01/2025 - Present |
 | [Mauricio B. Gehling](https://www.linkedin.com/in/mbg3dmind/) | Development Coordinator | 01/2025 - Present |
 | [Nicolay Hoff](https://www.linkedin.com/in/nicolayhoff/) | Developer  | 04/2026 - Present |
 | [Rodrigo Steigleder](https://www.linkedin.com/in/rodrigosteigleder/) | Security Analyst | 01/2025 - Present |
